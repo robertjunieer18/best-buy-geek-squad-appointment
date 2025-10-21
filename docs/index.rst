@@ -4,7 +4,7 @@ Best Buy Geek Squad | Schedule Your Appointment Now
 
 In today’s fast-paced world, our lives revolve around technology. From smartphones and laptops to smart home systems and kitchen appliances, staying connected is essential. But what happens when something goes wrong? That’s where **Best Buy Geek Squad** comes in — offering trusted, expert-level tech support when you need it most.
 
-.. image:: 
+.. image:: book-appointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
